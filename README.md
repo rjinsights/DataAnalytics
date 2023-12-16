@@ -20,7 +20,7 @@ I have analyzed over 100 job postings on LinkedIn and identified the essential s
 5️⃣ Understanding of Scrum & Agile Process<br>
 6️⃣ Basic and advanced level of understanding of any cloud platforms depending on the roles. (Azure, AWS & GCP Knowledge)<br>
 
-📌 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔
+📌 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔  <br>
 ✍️ After reviewing numerous job postings, it is evident that for entry-level positions such as internships or data analyst roles, a basic understanding of Python programming language is frequently required.
 
 This is especially relevant when conducting predictive analysis using customer data, as many modern BI tools offer functionality that can be effectively utilized with Python.
