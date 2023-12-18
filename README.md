@@ -20,13 +20,3 @@ I have analyzed over 100 job postings on LinkedIn and identified the essential s
 5️⃣ Understanding of Scrum & Agile Process<br>
 6️⃣ Basic and advanced level of understanding of any cloud platforms depending on the roles. (Azure, AWS & GCP Knowledge)<br>
 
-📌 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔  <br>
-✍️ After reviewing numerous job postings, it is evident that for entry-level positions such as internships or data analyst roles, a basic understanding of Python programming language is frequently required.
-
-This is especially relevant when conducting predictive analysis using customer data, as many modern BI tools offer functionality that can be effectively utilized with Python.
-
-As a sr. analyst, it is often necessary to have an understanding of machine learning (ML) concepts and the ability to apply regression, classification algorithms, and other techniques. Additionally, some companies may expect candidates to possess advanced knowledge of cloud platforms such as Azure, AWS, or GCP.
-
-For a sr. data analyst role, experience with tools like Snowflake and data transformation tools such as DBT may be required, as these positions often involve handling large data volumes and complex processing tasks.
-
-I have observed that some data analysts transition to data scientists or machine learning (ML) engineers, depending on the role and the company they work for. This demonstrates the versatility of the skills acquired as a data analyst and the potential for career growth in various directions within the data field.
